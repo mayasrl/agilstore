@@ -60,3 +60,9 @@ Os dados são salvos em `products.json`.
 
 - Node.js
 - Módulos nativos: readline, fs
+
+---
+
+<p align="center">
+  Desenvolvido com 💛 por <strong>@mayasrl</strong>.
+</p>

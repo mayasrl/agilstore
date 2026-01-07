@@ -1,0 +1,15 @@
+{
+  "name": "agilstore",
+  "version": "1.0.0",
+  "description": "Gerenciamento de produtos para AgilStore",
+  "main": "inventory.js",
+  "scripts": {
+    "start": "node inventory.js"
+  },
+  "keywords": [
+    "inventory",
+    "products"
+  ],
+  "author": "",
+  "license": "ISC"
+}

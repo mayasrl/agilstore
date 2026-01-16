@@ -62,7 +62,7 @@ Os dados são salvos em `products.json`.
 - Módulos nativos: readline, fs
 
 ---
-
+ 
 <p align="center">
   Desenvolvido com 💛 por <strong>@mayasrl</strong>.
 </p>
